@@ -19,5 +19,3 @@ NUID: 001568628
 OS: Windows
 IDE: Visual Studio Code
 
-# Time Travel Days
-Two days taken
